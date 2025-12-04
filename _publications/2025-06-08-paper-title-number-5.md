@@ -1,13 +1,22 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Advances in Multimodal Learning: Methods and Applications"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: journals
+permalink: /publication/2025-06-08-advances-multimodal-learning
+excerpt: 'This comprehensive survey reviews recent advances in multimodal learning, covering theoretical foundations, methodological innovations, and practical applications across various domains.'
+date: 2025-06-08
+venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)'
+paperurl: 'https://academicpages.github.io/files/papers/multimodal_survey_tpami2024.pdf'
+citation: 'Liu, J., & Fu, Q. (2025). "Advances in Multimodal Learning: Methods and Applications." IEEE Transactions on Pattern Analysis and Machine Intelligence, 47(6).'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+This comprehensive survey provides an in-depth analysis of recent advances in multimodal learning, covering both theoretical foundations and practical applications. We systematically review the evolution of multimodal learning approaches, from early fusion techniques to modern transformer-based architectures.
+
+**Key Topics Covered:**
+- Theoretical foundations of multimodal representation learning
+- Fusion strategies: early, late, and hybrid approaches
+- Attention mechanisms in multimodal contexts
+- Applications in computer vision, natural language processing, and beyond
+- Challenges and future directions in multimodal learning
+
+The survey identifies key challenges in current approaches and proposes future research directions to address limitations in existing methods. This work serves as a comprehensive reference for researchers and practitioners in the field of multimodal learning.
